@@ -1,0 +1,76 @@
+*{
+    font-family: 'Lobster', cursive;
+}
+.titre{
+    text-align: center;
+}
+
+.Marcel{
+    text-align: center;
+    width: 25%;
+    top: auto;
+}
+.carre{
+    border-radius: 20%;
+    position: relative;
+    left: 25% ;
+    height:15%;
+    width: 400px;
+    
+}
+.chap1{
+    position: absolute;
+    top: 110px;
+    left: 13.5%;
+}
+.chap2{
+    position: absolute;
+    top: 110px;
+    left: 45%;
+}
+.chap3{
+    position: absolute;
+    top: 210px;
+    left: 13.5%;
+}
+.chap4{
+    position: absolute;
+    top: 210px;
+    left: 45%;
+}
+.chap5{
+    position: absolute;
+    top: 310px;
+    left: 13.5%;
+}
+.chap6{
+    position: absolute;
+    top: 310px;
+    left: 45%;
+}
+
+.chap7{
+    position: absolute;
+    top: 410px;
+    left: 13.5%;
+}
+.chap8{
+    position: absolute;
+    top: 410px;
+    left: 45%;
+}
+.chap9{
+    position: absolute;
+    top: 510px;
+    left: 13.5%;
+}
+.chap10{
+    position: absolute;
+    top: 510px;
+    left: 45%;
+}
+.acceuil{
+    position: relative;
+    text-align: center;
+    top: 540px;
+}
